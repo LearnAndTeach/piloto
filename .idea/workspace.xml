@@ -2,12 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6033148-c113-4702-85e4-f66fa61b23be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/luis.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/nadie.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web-app/index.html" afterPath="$PROJECT_DIR$/web-app/signup.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/login/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/styles.css" afterPath="$PROJECT_DIR$/web-app/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/login.html" />
+      <change type="MOVED" beforePath="C:\Users\LuisFernando\Documents\ho\piloto\Piloto-grailsPlugins.iml" afterPath="$PROJECT_DIR$/piloto-grailsPlugins.iml" />
+      <change type="MOVED" beforePath="C:\Users\LuisFernando\Documents\ho\piloto\Piloto.iml" afterPath="$PROJECT_DIR$/piloto.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AbstractAssetFile.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AbstractAssetFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AbstractProcessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AbstractProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetCompiler.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetCompiler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetHelper.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetMethodTagLib.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetMethodTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetPipelineFilter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetPipelineFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetProcessorService.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetProcessorService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/AssetResourceLocator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/AssetResourceLocator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetsController.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetsController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetsTagLib.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetsTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/AuthorListWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/AuthorListWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/AuthorWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/AuthorWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/CacheManager.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/CacheManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/CacheTagLib.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/CacheTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/CachingLinkGenerator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/CachingLinkGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ChangeLogListWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ChangeLogListWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ChangeLogWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ChangeLogWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/ChangelogXml2Groovy.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/ChangelogXml2Groovy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ColumnWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ColumnWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/ConfigBuilder.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/ConfigBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/ConfigLoader.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/ConfigLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/CssAssetFile.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/CssAssetFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/CssMinifyPostProcessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/CssMinifyPostProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/CssProcessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/CssProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DbdocController.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DbdocController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/DirectiveProcessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/DirectiveProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DslBuilder$1.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DslBuilder$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DslBuilder.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DslBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/webxml/FilterManager.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/webxml/FilterManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormColumn.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormColumn.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabase.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabaseTypeConverter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabaseTypeConverter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDiff.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDiff.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/GrailsCacheAdminService.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/GrailsCacheAdminService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChange$1.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChange$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChange.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChange.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChangeLogParser.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChangeLogParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsClassLoaderResourceAccessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsClassLoaderResourceAccessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsDiffStatusListener.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsDiffStatusListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsPrecondition$1.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsPrecondition$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsPrecondition.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsPrecondition.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GroovyAwareStringChangeLogSerializer.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GroovyAwareStringChangeLogSerializer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/HTMLListWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/HTMLListWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/HTMLWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/HTMLWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/HibernateAwareTypeConverter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/HibernateAwareTypeConverter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/HtmlAssetFile.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/HtmlAssetFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/InlineExplodedTomcatServer.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/InlineExplodedTomcatServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryResourceTagLib$_closure2.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryResourceTagLib$_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryResourceTagLib.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryResourceTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryService.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryTagLib.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/JsAssetFile.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/JsAssetFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/LinkGenerator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/LinkGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/ManifestAssetFile.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/ManifestAssetFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/MemoryDocVisitor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/MemoryDocVisitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MigrationRunner.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MigrationRunner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MigrationUtils.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MigrationUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MysqlAwareCreateTableGenerator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MysqlAwareCreateTableGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/NoopVisitor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/NoopVisitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/PendingChangesWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/PendingChangesWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/PendingSQLWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/PendingSQLWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/RecentChangesWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/RecentChangesWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/ScriptUtils.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/ScriptUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/Slf4jLogger.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/Slf4jLogger.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableListWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableListWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatDevelopmentRunner.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatDevelopmentRunner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatExecutionContext.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatExecutionContext.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatLoader.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatServer.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatServerFactory.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatServerFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatWarRunner.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatWarRunner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/UglifyJsProcessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/UglifyJsProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/signup/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/signup/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/resources/web.xml" afterPath="$PROJECT_DIR$/target/work/resources/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Piloto.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,6 +115,10 @@
     <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\LuisFernando\Documents\ho\piloto\exportToHTML" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="Piloto" />
   </component>
@@ -43,18 +127,38 @@
       <file leaf-file-name="index.gsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.111111" vertical-offset="789" max-vertical-offset="3294">
+            <state vertical-scroll-proportion="-5.269231" vertical-offset="764" max-vertical-offset="3111">
               <caret line="53" column="49" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="signup.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="signup.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-app/signup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29752067" vertical-offset="450" max-vertical-offset="1386">
-              <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+            <state vertical-scroll-proportion="-3.9230769" vertical-offset="408" max-vertical-offset="1309">
+              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/signup/index.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.0612245" vertical-offset="311" max-vertical-offset="1275">
+              <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-app/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.7758621" vertical-offset="752" max-vertical-offset="1258">
+              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -63,9 +167,14 @@
       <file leaf-file-name="edit.gsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/login/edit.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.764706" vertical-offset="435" max-vertical-offset="846">
+            <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="799">
               <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-              <folding />
+              <folding>
+                <marker date="1427002965296" expanded="true" signature="992:1064" placeholder="..." />
+                <marker date="1427002965296" expanded="true" signature="1105:1389" placeholder="..." />
+                <marker date="1427002965296" expanded="true" signature="1183:1362" placeholder="..." />
+                <marker date="1427002965296" expanded="true" signature="1449:1799" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,8 +182,8 @@
       <file leaf-file-name="index.gsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.4117646" vertical-offset="399" max-vertical-offset="1332">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            <state vertical-scroll-proportion="-1.3877552" vertical-offset="493" max-vertical-offset="1258">
+              <caret line="33" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -103,14 +212,14 @@
         <option value="$PROJECT_DIR$/grails-app/views/login/login.html" />
         <option value="$PROJECT_DIR$/grails-app/views/login.html" />
         <option value="$PROJECT_DIR$/web-app/SignUp.html" />
-        <option value="$PROJECT_DIR$/web-app/login.html" />
         <option value="$PROJECT_DIR$/web-app/login_1.html" />
         <option value="$PROJECT_DIR$/web-app/css/styles.css" />
-        <option value="$PROJECT_DIR$/grails-app/views/signup/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/html" />
         <option value="$PROJECT_DIR$/web-app/signup.html" />
         <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
+        <option value="$PROJECT_DIR$/web-app/login.html" />
+        <option value="$PROJECT_DIR$/grails-app/views/signup/index.gsp" />
       </list>
     </option>
   </component>
@@ -118,9 +227,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="width" value="1368" />
-    <option name="height" value="743" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -148,6 +258,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,7 +273,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Piloto" />
+              <option name="myItemId" value="piloto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -172,7 +283,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Piloto" />
+              <option name="myItemId" value="piloto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -186,7 +297,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Piloto" />
+              <option name="myItemId" value="piloto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -204,29 +315,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Piloto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Piloto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Piloto" />
+              <option name="myItemId" value="piloto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -236,7 +325,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,7 +383,7 @@
       <recent name="$PROJECT_DIR$/web-app/css" />
     </key>
   </component>
-  <component name="RunManager" selected="Grails.Grails:Piloto">
+  <component name="RunManager" selected="Grails.Grails:piloto">
     <configuration default="false" name="All in Piloto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Piloto-grailsPlugins" />
@@ -317,6 +405,27 @@
       <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -359,6 +468,12 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -367,22 +482,6 @@
       <setting name="passParentEnv" value="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -403,22 +502,6 @@
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
@@ -443,6 +526,11 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -458,6 +546,43 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
       <option name="BCName" value="" />
       <option name="launcherParameters">
@@ -470,6 +595,24 @@
       </option>
       <option name="moduleName" value="" />
       <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Piloto" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -530,6 +673,27 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -577,6 +741,26 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Piloto" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -588,22 +772,6 @@
       <option name="VM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -625,134 +793,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Piloto" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Piloto" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="Grails:Piloto" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="Piloto" />
       <setting name="vmparams" value="" />
@@ -771,9 +811,22 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="2">
+    <configuration default="false" name="Grails:piloto" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="piloto" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Grails.Grails:Piloto" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.All in Piloto" />
+      <item index="2" class="java.lang.String" itemvalue="Grails.Grails:piloto" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -808,6 +861,7 @@
       <workItem from="1426989233648" duration="14517000" />
       <workItem from="1427004281538" duration="4847000" />
       <workItem from="1427033214741" duration="9639000" />
+      <workItem from="1427047050388" duration="2541000" />
     </task>
     <task id="LOCAL-00001" summary="-Commit with Boostrap V.1.0">
       <created>1426986006930</created>
@@ -849,17 +903,36 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57735000" />
+    <option name="totallyTimeSpent" value="60276000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30658105" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43779528" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -872,26 +945,27 @@
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993808" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30658105" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43779528" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31666666" sideWeight="0.4987715" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30600291" sideWeight="0.4987715" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24925596" sideWeight="0.5012285" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -996,6 +1070,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1258">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/mobile.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1094" max-vertical-offset="1584">
@@ -1122,13 +1204,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Piloto.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1980">
-          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
@@ -1167,7 +1242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9432099" vertical-offset="158" max-vertical-offset="648">
           <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1175,7 +1249,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1183,7 +1256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="738">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1191,7 +1263,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1199,7 +1270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.049046323" vertical-offset="0" max-vertical-offset="367">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1215,7 +1285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33608815" vertical-offset="166" max-vertical-offset="558">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1231,7 +1300,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.4166665" vertical-offset="68" max-vertical-offset="1962">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1239,7 +1307,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1247,37 +1314,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.62234044" vertical-offset="0" max-vertical-offset="594">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/piloto/Signup.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6545454" vertical-offset="0" max-vertical-offset="234">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="12" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/piloto/Login.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6545454" vertical-offset="0" max-vertical-offset="234">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/signup/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1176472" vertical-offset="957" max-vertical-offset="1350">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="-0.6545454" vertical-offset="0" max-vertical-offset="234">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1309,7 +1365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5833335" vertical-offset="10" max-vertical-offset="2826">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1317,7 +1372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5833335" vertical-offset="10" max-vertical-offset="450">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1325,7 +1379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1548">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1333,7 +1386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.353562" vertical-offset="10" max-vertical-offset="450">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1341,21 +1393,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28723404" vertical-offset="0" max-vertical-offset="396">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/login/edit.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.764706" vertical-offset="435" max-vertical-offset="846">
+        <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="799">
           <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-          <folding />
+          <folding>
+            <marker date="1427002965296" expanded="true" signature="992:1064" placeholder="..." />
+            <marker date="1427002965296" expanded="true" signature="1105:1389" placeholder="..." />
+            <marker date="1427002965296" expanded="true" signature="1183:1362" placeholder="..." />
+            <marker date="1427002965296" expanded="true" signature="1449:1799" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.111111" vertical-offset="789" max-vertical-offset="3294">
+        <state vertical-scroll-proportion="-5.269231" vertical-offset="764" max-vertical-offset="3111">
           <caret line="53" column="49" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
           <folding />
         </state>
@@ -1363,16 +1419,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4117646" vertical-offset="399" max-vertical-offset="1332">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        <state vertical-scroll-proportion="-1.3877552" vertical-offset="493" max-vertical-offset="1258">
+          <caret line="33" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-app/signup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29752067" vertical-offset="450" max-vertical-offset="1386">
-          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="408" max-vertical-offset="1309">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/signup/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.0612245" vertical-offset="311" max-vertical-offset="1275">
+          <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7758621" vertical-offset="752" max-vertical-offset="1258">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
           <folding />
         </state>
       </provider>
@@ -1381,23 +1453,23 @@
   <component name="grailsSettings">
     <option name="map">
       <map>
-        <entry key="Piloto">
+        <entry key="piloto">
           <value>
             <GrailsSettings>
               <option name="buildConfigCrc" value="-129828941" />
               <option name="pluginDependenciesCrc" value="1682136675" />
               <option name="properties">
                 <map>
-                  <entry key="grails.global.plugins.dir" value="$USER_HOME$/.grails/2.4.4/global-plugins" />
-                  <entry key="grails.project.plugins.dir" value="target/work/plugins" />
-                  <entry key="grails.project.work.dir" value="target/work" />
-                  <entry key="grails.work.dir" value="$USER_HOME$/.grails/2.4.4" />
+                  <entry key="grails.global.plugins.dir" value="C:\Users\LuisFernando\.grails\2.4.4\global-plugins" />
+                  <entry key="grails.project.plugins.dir" value="target\work\plugins" />
+                  <entry key="grails.project.work.dir" value="target\work" />
+                  <entry key="grails.work.dir" value="C:\Users\LuisFernando\.grails\2.4.4" />
                 </map>
               </option>
             </GrailsSettings>
           </value>
         </entry>
-        <entry key="Piloto-grailsPlugins">
+        <entry key="piloto-grailsPlugins">
           <value>
             <GrailsSettings />
           </value>

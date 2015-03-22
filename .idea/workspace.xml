@@ -2,91 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6033148-c113-4702-85e4-f66fa61b23be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/login.html" />
-      <change type="MOVED" beforePath="C:\Users\LuisFernando\Documents\ho\piloto\Piloto-grailsPlugins.iml" afterPath="$PROJECT_DIR$/piloto-grailsPlugins.iml" />
-      <change type="MOVED" beforePath="C:\Users\LuisFernando\Documents\ho\piloto\Piloto.iml" afterPath="$PROJECT_DIR$/piloto.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AbstractAssetFile.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AbstractAssetFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AbstractProcessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AbstractProcessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetCompiler.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetCompiler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetHelper.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetMethodTagLib.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetMethodTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetPipelineFilter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetPipelineFilter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetProcessorService.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetProcessorService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/AssetResourceLocator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/AssetResourceLocator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetsController.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetsController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetsTagLib.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/AssetsTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/AuthorListWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/AuthorListWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/AuthorWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/AuthorWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/CacheManager.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/CacheManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/CacheTagLib.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/CacheTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/CachingLinkGenerator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/CachingLinkGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ChangeLogListWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ChangeLogListWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ChangeLogWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ChangeLogWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/ChangelogXml2Groovy.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/ChangelogXml2Groovy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ColumnWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/ColumnWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/ConfigBuilder.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/ConfigBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/ConfigLoader.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/ConfigLoader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/CssAssetFile.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/CssAssetFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/CssMinifyPostProcessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/CssMinifyPostProcessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/CssProcessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/CssProcessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DbdocController.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DbdocController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/DirectiveProcessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/DirectiveProcessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DslBuilder$1.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DslBuilder$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DslBuilder.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/DslBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/webxml/FilterManager.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/webxml/FilterManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormColumn.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormColumn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabase.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabaseTypeConverter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDatabaseTypeConverter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDiff.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GormDiff.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/GrailsCacheAdminService.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/cache/GrailsCacheAdminService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChange$1.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChange$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChange.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChangeLogParser.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsChangeLogParser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsClassLoaderResourceAccessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsClassLoaderResourceAccessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsDiffStatusListener.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsDiffStatusListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsPrecondition$1.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsPrecondition$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsPrecondition.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GrailsPrecondition.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GroovyAwareStringChangeLogSerializer.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/GroovyAwareStringChangeLogSerializer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/HTMLListWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/HTMLListWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/HTMLWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/HTMLWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/HibernateAwareTypeConverter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/HibernateAwareTypeConverter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/HtmlAssetFile.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/HtmlAssetFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/InlineExplodedTomcatServer.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/InlineExplodedTomcatServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryResourceTagLib$_closure2.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryResourceTagLib$_closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryResourceTagLib.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryResourceTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryService.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryTagLib.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/JQueryTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/JsAssetFile.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/JsAssetFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/LinkGenerator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/grails/LinkGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/ManifestAssetFile.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/ManifestAssetFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/MemoryDocVisitor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/MemoryDocVisitor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MigrationRunner.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MigrationRunner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MigrationUtils.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MigrationUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MysqlAwareCreateTableGenerator.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/MysqlAwareCreateTableGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/NoopVisitor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/NoopVisitor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/PendingChangesWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/PendingChangesWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/PendingSQLWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/PendingSQLWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/RecentChangesWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/RecentChangesWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/ScriptUtils.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/ScriptUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/Slf4jLogger.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/Slf4jLogger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableListWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableListWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableWriter.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatDevelopmentRunner.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatDevelopmentRunner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatExecutionContext.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatExecutionContext.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatLoader.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatLoader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatServer.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatServerFactory.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/TomcatServerFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatWarRunner.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatWarRunner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/UglifyJsProcessor.class" afterPath="$PROJECT_DIR$/out/production/Piloto-grailsPlugins/asset/pipeline/processors/UglifyJsProcessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/signup/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/signup/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/resources/web.xml" afterPath="$PROJECT_DIR$/target/work/resources/web.xml" />
+      <change type="DELETED" beforePath="C:\Users\LuisFernando\Documents\ho\piloto\grails-app\views\login\_form.gsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\LuisFernando\Documents\ho\piloto\grails-app\views\login\create.gsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\LuisFernando\Documents\ho\piloto\grails-app\views\login\edit.gsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\LuisFernando\Documents\ho\piloto\grails-app\views\login\index.gsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\LuisFernando\Documents\ho\piloto\grails-app\views\login\show.gsp" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\LuisFernando\Documents\ho\piloto\web-app\login.html" afterPath="$PROJECT_DIR$/web-app/login_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/signup.html" afterPath="$PROJECT_DIR$/web-app/signup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Piloto.iws" />
@@ -127,18 +51,18 @@
       <file leaf-file-name="index.gsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.269231" vertical-offset="764" max-vertical-offset="3111">
-              <caret line="53" column="49" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
+            <state vertical-scroll-proportion="-9.192307" vertical-offset="764" max-vertical-offset="3111">
+              <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="signup.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="signup.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-app/signup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9230769" vertical-offset="408" max-vertical-offset="1309">
-              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.6448276" vertical-offset="459" max-vertical-offset="1292">
+              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -154,36 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web-app/login.html">
+      <file leaf-file-name="login_1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/login_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.7758621" vertical-offset="752" max-vertical-offset="1258">
-              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/login/edit.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="799">
-              <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-              <folding>
-                <marker date="1427002965296" expanded="true" signature="992:1064" placeholder="..." />
-                <marker date="1427002965296" expanded="true" signature="1105:1389" placeholder="..." />
-                <marker date="1427002965296" expanded="true" signature="1183:1362" placeholder="..." />
-                <marker date="1427002965296" expanded="true" signature="1449:1799" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3877552" vertical-offset="493" max-vertical-offset="1258">
-              <caret line="33" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="7" />
+            <state vertical-scroll-proportion="-5.923077" vertical-offset="424" max-vertical-offset="1241">
+              <caret line="34" column="92" selection-start-line="34" selection-start-column="92" selection-end-line="34" selection-end-column="92" />
               <folding />
             </state>
           </provider>
@@ -215,11 +114,11 @@
         <option value="$PROJECT_DIR$/web-app/login_1.html" />
         <option value="$PROJECT_DIR$/web-app/css/styles.css" />
         <option value="$PROJECT_DIR$/grails-app/views/html" />
-        <option value="$PROJECT_DIR$/web-app/signup.html" />
         <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
-        <option value="$PROJECT_DIR$/web-app/login.html" />
         <option value="$PROJECT_DIR$/grails-app/views/signup/index.gsp" />
+        <option value="$PROJECT_DIR$/web-app/login.html" />
+        <option value="$PROJECT_DIR$/web-app/signup.html" />
       </list>
     </option>
   </component>
@@ -861,7 +760,7 @@
       <workItem from="1426989233648" duration="14517000" />
       <workItem from="1427004281538" duration="4847000" />
       <workItem from="1427033214741" duration="9639000" />
-      <workItem from="1427047050388" duration="2541000" />
+      <workItem from="1427047050388" duration="3488000" />
     </task>
     <task id="LOCAL-00001" summary="-Commit with Boostrap V.1.0">
       <created>1426986006930</created>
@@ -903,7 +802,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60276000" />
+    <option name="totallyTimeSpent" value="61223000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1070,14 +969,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1258">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/mobile.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1094" max-vertical-offset="1584">
@@ -1252,27 +1143,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/show.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="738">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/create.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/_form.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.049046323" vertical-offset="0" max-vertical-offset="367">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/aria.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="12952" max-vertical-offset="22392">
@@ -1300,6 +1170,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.4166665" vertical-offset="68" max-vertical-offset="1962">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1334,6 +1205,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6545454" vertical-offset="0" max-vertical-offset="234">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1396,43 +1268,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/edit.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="799">
-          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-          <folding>
-            <marker date="1427002965296" expanded="true" signature="992:1064" placeholder="..." />
-            <marker date="1427002965296" expanded="true" signature="1105:1389" placeholder="..." />
-            <marker date="1427002965296" expanded="true" signature="1183:1362" placeholder="..." />
-            <marker date="1427002965296" expanded="true" signature="1449:1799" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.269231" vertical-offset="764" max-vertical-offset="3111">
-          <caret line="53" column="49" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3877552" vertical-offset="493" max-vertical-offset="1258">
-          <caret line="33" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769" vertical-offset="408" max-vertical-offset="1309">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/signup/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.0612245" vertical-offset="311" max-vertical-offset="1275">
@@ -1441,10 +1276,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/login.html">
+    <entry file="file://$PROJECT_DIR$/web-app/login_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7758621" vertical-offset="752" max-vertical-offset="1258">
-          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        <state vertical-scroll-proportion="-5.923077" vertical-offset="424" max-vertical-offset="1241">
+          <caret line="34" column="92" selection-start-line="34" selection-start-column="92" selection-end-line="34" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.192307" vertical-offset="764" max-vertical-offset="3111">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6448276" vertical-offset="459" max-vertical-offset="1292">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
           <folding />
         </state>
       </provider>

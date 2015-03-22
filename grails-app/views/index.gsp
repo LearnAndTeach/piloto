@@ -25,7 +25,7 @@
         width: 70%;
         margin: auto;
     </style>
-    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min8.css">
     <script src="js/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 </head>
 <body>
